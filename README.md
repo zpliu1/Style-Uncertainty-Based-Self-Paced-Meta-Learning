@@ -8,12 +8,12 @@ CUDA>=10.0\
 PyTorch 1.7.1\
 python 3.6.10\
 NumPy (1.16.4)\
-TensorBoard\
+TensorBoard
 
 
 # Description of the Code
 main.py: driver script to run training/testing\
-trainers: function of training process\ 
+trainers: function of training process\
 resMeta: the model to extract text features\
 evaluators: functions to perform retrieval test and compute recall performance\
 
