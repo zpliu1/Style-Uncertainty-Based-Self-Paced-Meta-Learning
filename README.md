@@ -9,3 +9,7 @@ python main.py \
 -a $ARCH -d $TARGET \
 --logs-dir $LOG_DIR --data-dir $DATA_DIR \
 --evaluate --resume $RESUME
+
+Training Data
+
+The model is trained and evaluated on Market-1501, DukeMTMC-reID, MSMT17, CUHK03
