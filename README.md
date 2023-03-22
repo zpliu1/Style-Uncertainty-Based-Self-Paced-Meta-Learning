@@ -13,9 +13,9 @@ TensorBoard\
 
 # Description of the Code
 main.py: driver script to run training/testing\
-trainers: function of training process 
-resMeta: the model to extract text features
-evaluators: functions to perform retrieval test and compute recall performance
+trainers: function of training process\ 
+resMeta: the model to extract text features\
+evaluators: functions to perform retrieval test and compute recall performance\
 
 
 # Running the experiments
