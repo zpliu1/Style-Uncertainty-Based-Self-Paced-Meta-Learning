@@ -1,4 +1,4 @@
-# SuA-SpML
+# Style-uncertainty Based Self-paced Meta Learning/
 Style Uncertainty Based Self-Paced Meta Learning for Generalizable Person Re-Identification
 
 # Run
